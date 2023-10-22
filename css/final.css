@@ -150,7 +150,7 @@ body{
   to {opacity: 1}
 }
 .intro{
-  background-image: url(/IMG/nen.jpg);
+  background-image: url(IMG/nen.jpg);
   background-position:center;
     background-repeat: no-repeat;
     background-size: cover;

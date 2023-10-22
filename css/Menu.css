@@ -99,7 +99,7 @@ body{
     cursor: pointer;
   }
   .modau{
-    background-image: url(/IMG/menu.jpg);
+    background-image: url(IMG/menu.jpg);
     background-repeat: no-repeat;
     background-position: center;
     height: 750px;
