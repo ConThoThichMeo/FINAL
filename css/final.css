@@ -149,13 +149,6 @@ body{
   from {opacity: 0.4}
   to {opacity: 1}
 }
-.intro{
-  background-image: url(IMG/nen.jpg);
-  background-position:center;
-    background-repeat: no-repeat;
-    background-size: cover;
-   background-attachment: fixed
-}
 .slogan{
   text-align: center;
   margin-top: 20px;
